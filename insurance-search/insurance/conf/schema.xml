@@ -50,7 +50,7 @@
   </fields>
 
    <uniqueKey>id</uniqueKey>
-   <defaultSearchField>pro_name</defaultSearchField>
+   <defaultSearchField>proName</defaultSearchField>
 
   <types>
     <fieldType name="string" class="solr.StrField" sortMissingLast="true" />
